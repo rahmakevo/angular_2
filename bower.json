@@ -1,0 +1,21 @@
+{
+  "name": "angular_2",
+  "authors": [
+    "rahmakevo <siundu344@gmail.com>"
+  ],
+  "description": "Full Angular Tutorial",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
